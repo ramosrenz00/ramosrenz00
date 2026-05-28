@@ -1,6 +1,5 @@
 # Hello, I'm Renz Victor Ramos
-<a href="www.linkedin.com/in/renz-victor-ramos"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/renz-victor-ramos"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 IT Engineer with a growing focus on Cybersecurity, passionate about Cloud Security, AI Automation, and securing modern systems. Currently expanding my skills while building hands-on projects and labs.
 
 ## Objective
