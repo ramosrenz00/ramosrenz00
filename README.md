@@ -1,17 +1,13 @@
 # Hello, I'm Renz Victor Ramos
 <a href="www.linkedin.com/in/renz-victor-ramos"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+IT Engineer with a growing focus on Cybersecurity, passionate about Cloud Security, AI Automation, and securing modern systems. Currently expanding my skills while building hands-on projects and labs.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | ****************************                  | ******************|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -43,6 +39,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<img src="https://img.shields.io/badge/-CEH%20v13-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 
 </div>
 
