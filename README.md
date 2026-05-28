@@ -40,7 +40,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 <div>
 <img src="https://img.shields.io/badge/-CEH%20v13-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2%20CC-FF0000?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2%20CC-28A745?&style=for-the-badge&logo=ISC2&logoColor=white" />
+
 
 </div>
 
